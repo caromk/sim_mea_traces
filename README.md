@@ -6,6 +6,8 @@ Code simulates the recorded activity of a population of neurons on a multi-elect
 
 Code and documention in process of being made more user-friendly for publication and use.
 
+Paper will be posted on bioRxiv soon, a previous version is available in my dissertation: https://hdl.handle.net/2144/19751
+
 ## Directories
 
 ### cpp
